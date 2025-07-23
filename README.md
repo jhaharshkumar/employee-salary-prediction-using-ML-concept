@@ -15,11 +15,6 @@ The application is built using Streamlit and powered by a Gradient Boosting Clas
 -   **Batch Prediction:** Upload a CSV file with multiple employee records to get predictions for all of them at once.
 -   **Downloadable Results:** Download the batch predictions as a new CSV file.
 
-##  डेमो (Demo)
-
-<!-- Add a GIF of your Streamlit app in action here. You can use a tool like LICEcap or ScreenToGif to record your screen. -->
-
-
 ## 🛠️ Technology Stack
 
 -   **Python 3.x**
@@ -117,11 +112,3 @@ Your web browser should automatically open a new tab with the running applicatio
     -   Dropped the redundant `education` column.
     -   Applied **Label Encoding** to convert all categorical features into numerical format.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## 🙏 Acknowledgments
-
--   Thanks to the creators of the UCI Machine Learning Repository for providing the dataset.
--   The Streamlit team for making web app development in Python so accessible.
